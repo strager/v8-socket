@@ -1,0 +1,11 @@
+{
+    "author": "strager <strager.nds@gmail.com>",
+    "name": "v8-socket",
+    "description": "V8 debugger socket",
+    "version": "0.0.0",
+    "main": "lib/v8-socket.js",
+    "dependencies": { },
+    "engines": {
+        "node": "0.6.x"
+    }
+}
